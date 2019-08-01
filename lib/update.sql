@@ -1,1 +1,1 @@
-UPDATE characters SET species = [new value] WHERE [column name] = [value];
+UPDATE characters SET species = 'Martian' WHERE [column name] = [value];
